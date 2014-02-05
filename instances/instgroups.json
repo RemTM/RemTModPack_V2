@@ -1,0 +1,26 @@
+{
+    "formatVersion": "1",
+    "groups": {
+        "Clean": {
+            "hidden": "false",
+            "instances": [
+                "Clean 1.6.4"
+            ]
+        },
+        "FTB": {
+            "hidden": "false",
+            "instances": [
+                "FTB/Unleashed",
+                "FTB/Monster",
+                "FTB/Direwolf20_1_6_4"
+            ]
+        },
+        "RemTModPack": {
+            "hidden": "false",
+            "instances": [
+                "RemTModPack_AL_V2",
+                "RemTModPack_V2"
+            ]
+        }
+    }
+}

@@ -1,0 +1,2611 @@
+{
+  "adfly": "673885",
+  "artifact": "forge",
+  "branches": {},
+  "homepage": "http://files.minecraftforge.net/minecraftforge",
+  "mcversion": {
+    "1.6.4": [
+      953,
+      965,
+      961,
+      964,
+      960,
+      963
+    ],
+    "1.7.2": [
+      967,
+      985,
+      996,
+      980,
+      1020,
+      970,
+      1019,
+      984,
+      982,
+      968,
+      1011,
+      989,
+      979,
+      1002,
+      993,
+      986,
+      1016,
+      972,
+      973,
+      1006,
+      1013,
+      1001,
+      987,
+      1017,
+      999,
+      998,
+      995,
+      1021,
+      1014,
+      1009,
+      1010,
+      1007,
+      990,
+      1004,
+      991,
+      969,
+      1005,
+      1003,
+      975,
+      1018,
+      976,
+      997,
+      1022,
+      977,
+      971,
+      1012,
+      994,
+      974,
+      1015,
+      1008,
+      981,
+      1000
+    ]
+  },
+  "name": "Minecraft Forge",
+  "number": {
+    "953": {
+      "branch": null,
+      "build": 953,
+      "files": [
+        [
+          "jar",
+          "installer",
+          "1d47b6aa35b7589b45a1495c62ed79cc"
+        ],
+        [
+          "zip",
+          "javadoc",
+          "ee97247053e8fd537fe6d523b8acda07"
+        ],
+        [
+          "jar",
+          "universal",
+          "0bf5250f9ff4b7b0f3bcc41893010781"
+        ],
+        [
+          "zip",
+          "src",
+          "12783ce2ef163be59a8823005e3de548"
+        ],
+        [
+          "txt",
+          "changelog",
+          "a222363178459e69c76221a027ffd3e4"
+        ]
+      ],
+      "jobver": "9.11.1",
+      "mcversion": "1.6.4",
+      "modified": 1385065875.0,
+      "version": "9.11.1.953"
+    },
+    "960": {
+      "branch": null,
+      "build": 960,
+      "files": [
+        [
+          "txt",
+          "changelog",
+          "af016d38ff84389701b90913735faa25"
+        ],
+        [
+          "jar",
+          "userdev",
+          "0690ec20f4595a9b9466831f0f08d54e"
+        ],
+        [
+          "zip",
+          "javadoc",
+          "f00f744d0bdf46ddc846bb766c33f0f8"
+        ],
+        [
+          "zip",
+          "src",
+          "a4785db6235d04f56fc08efcc5b99585"
+        ]
+      ],
+      "jobver": "9.11.1",
+      "mcversion": "1.6.4",
+      "modified": 1384928789.882687,
+      "version": "9.11.1.960"
+    },
+    "961": {
+      "branch": null,
+      "build": 961,
+      "files": [
+        [
+          "txt",
+          "changelog",
+          "08c07bd2499c305d0da297afe86db2d0"
+        ],
+        [
+          "zip",
+          "javadoc",
+          "0d5120caa828270aece69e3941611e47"
+        ],
+        [
+          "jar",
+          "userdev",
+          "ee2ff5ead8d8f33050ad8b4942b248ff"
+        ],
+        [
+          "zip",
+          "src",
+          "eca3e546be2bc7562034d6eeded0fe17"
+        ]
+      ],
+      "jobver": "9.11.1",
+      "mcversion": "1.6.4",
+      "modified": 1385009137.6614401,
+      "version": "9.11.1.961"
+    },
+    "963": {
+      "branch": null,
+      "build": 963,
+      "files": [
+        [
+          "jar",
+          "userdev",
+          "4d7048bcc4036e5f2e990bb4fd766b43"
+        ],
+        [
+          "txt",
+          "changelog",
+          "69ccb56099428d1ea42bb1a180a84e06"
+        ],
+        [
+          "zip",
+          "src",
+          "29765b7ede02f21b3dcb6d05b31b3eb2"
+        ],
+        [
+          "zip",
+          "javadoc",
+          "feab0cec25ead4baa127bccc9b4e3230"
+        ]
+      ],
+      "jobver": "9.11.1",
+      "mcversion": "1.6.4",
+      "modified": 1385013117.8773785,
+      "version": "9.11.1.963"
+    },
+    "964": {
+      "branch": null,
+      "build": 964,
+      "files": [
+        [
+          "jar",
+          "userdev",
+          "a40d94d8ff49e98bb4c4733a90f664de"
+        ],
+        [
+          "zip",
+          "src",
+          "dd7dd5e5e9e4227055d0af4880dbdf89"
+        ],
+        [
+          "txt",
+          "changelog",
+          "46a9a2f8d61a11ff12690cb64fd6dfa7"
+        ],
+        [
+          "zip",
+          "javadoc",
+          "f88aefb2d2de445e51e0f8c97e6e9ba6"
+        ]
+      ],
+      "jobver": "9.11.1",
+      "mcversion": "1.6.4",
+      "modified": 1385020137.2092695,
+      "version": "9.11.1.964"
+    },
+    "965": {
+      "branch": null,
+      "build": 965,
+      "files": [
+        [
+          "txt",
+          "changelog",
+          "413ac00e65b5078d7322e3eb1233e288"
+        ],
+        [
+          "zip",
+          "javadoc",
+          "ee97247053e8fd537fe6d523b8acda07"
+        ],
+        [
+          "jar",
+          "installer",
+          "0e3726eb0a8a34a73807a751404444e3"
+        ],
+        [
+          "zip",
+          "src",
+          "fa26f04829b91b6829ad532ed43860f3"
+        ],
+        [
+          "jar",
+          "universal",
+          "02efbef58dbd39fccead94777b611fce"
+        ]
+      ],
+      "jobver": "9.11.1",
+      "mcversion": "1.6.4",
+      "modified": 1385062260.0,
+      "version": "9.11.1.965"
+    },
+    "967": {
+      "branch": null,
+      "build": 967,
+      "files": [
+        [
+          "jar",
+          "installer",
+          "c5fc2bb496626ccf16b9dfaaf52a0866"
+        ],
+        [
+          "jar",
+          "userdev",
+          "a84b047e8d31366ba3f5fceebc0687a4"
+        ],
+        [
+          "jar",
+          "universal",
+          "87243055b03d473572555c7217f52ba1"
+        ],
+        [
+          "zip",
+          "src",
+          "ad031eab00eea10a3e961bd67252f91a"
+        ],
+        [
+          "zip",
+          "javadoc",
+          "649c21cb99617c97fa1f50f7f6e01c0c"
+        ],
+        [
+          "txt",
+          "changelog",
+          "7298a0960de585cd85e5c874caf4294d"
+        ],
+        [
+          "exe",
+          "installer-win",
+          "262d655092eeaf4482bb0a26c2551bec"
+        ]
+      ],
+      "jobver": "10.12.0",
+      "mcversion": "1.7.2",
+      "modified": 1388093167.593584,
+      "version": "10.12.0.967"
+    },
+    "968": {
+      "branch": null,
+      "build": 968,
+      "files": [
+        [
+          "jar",
+          "universal",
+          "7e30bfd7df96b5f655ad828c4de84ba0"
+        ],
+        [
+          "jar",
+          "userdev",
+          "dfe0d09531a1566994b4a92443b7e460"
+        ],
+        [
+          "jar",
+          "installer",
+          "0719e93cd59abef781509e1d9d940334"
+        ],
+        [
+          "zip",
+          "src",
+          "d72f796a146d1bc2f64ee394894f2433"
+        ],
+        [
+          "txt",
+          "changelog",
+          "f043fa0d138f1ff149abf572bfc95409"
+        ],
+        [
+          "zip",
+          "javadoc",
+          "35809dd7e760787b62bf28a5b3d9eafc"
+        ],
+        [
+          "exe",
+          "installer-win",
+          "bb6ae8374720fb724401824e9ca561c6"
+        ]
+      ],
+      "jobver": "10.12.0",
+      "mcversion": "1.7.2",
+      "modified": 1388121296.7531476,
+      "version": "10.12.0.968"
+    },
+    "969": {
+      "branch": null,
+      "build": 969,
+      "files": [
+        [
+          "zip",
+          "javadoc",
+          "1eaff6d9d12b4690e71b1852a98fc356"
+        ],
+        [
+          "txt",
+          "changelog",
+          "76812a2b366e3b0803b1313b367a3179"
+        ],
+        [
+          "jar",
+          "installer",
+          "f9d878fb2268b375705afd263b9c1650"
+        ],
+        [
+          "exe",
+          "installer-win",
+          "291f12c7641d07f38b214265e39a9026"
+        ],
+        [
+          "jar",
+          "userdev",
+          "25d964e6cf4c46b26ba45d85f79f73ff"
+        ],
+        [
+          "jar",
+          "universal",
+          "14caecb0eaa9c7b87da8334fade6c038"
+        ],
+        [
+          "zip",
+          "src",
+          "1582e1cee0e18bfb1591e5141f0c9605"
+        ]
+      ],
+      "jobver": "10.12.0",
+      "mcversion": "1.7.2",
+      "modified": 1388197935.3879583,
+      "version": "10.12.0.969"
+    },
+    "970": {
+      "branch": null,
+      "build": 970,
+      "files": [
+        [
+          "jar",
+          "universal",
+          "ef56706419e58963096417a1e1f9b0bb"
+        ],
+        [
+          "jar",
+          "installer",
+          "7da6cd32d541e002c8a9b0c4148bdac0"
+        ],
+        [
+          "zip",
+          "src",
+          "9fb889fb9ef3efeeb9269fa9b0a97669"
+        ],
+        [
+          "exe",
+          "installer-win",
+          "e25c3ef42252790e650695ffd5885744"
+        ],
+        [
+          "zip",
+          "javadoc",
+          "9aa5bbb2ed953b4dccf2ff3bf9928686"
+        ],
+        [
+          "jar",
+          "userdev",
+          "39f8fbf6e8aa5746031ad3ac3c7d6b9d"
+        ],
+        [
+          "txt",
+          "changelog",
+          "aadf5507757ed5494e1e549291651b5a"
+        ]
+      ],
+      "jobver": "10.12.0",
+      "mcversion": "1.7.2",
+      "modified": 1388199245.583938,
+      "version": "10.12.0.970"
+    },
+    "971": {
+      "branch": null,
+      "build": 971,
+      "files": [
+        [
+          "exe",
+          "installer-win",
+          "e19135bfc149c0cdfcde2dde35c878af"
+        ],
+        [
+          "jar",
+          "userdev",
+          "33e5d023d2bf66cd259fcc2aba939f42"
+        ],
+        [
+          "jar",
+          "universal",
+          "4cb8f900d33051b3c749737c5c989780"
+        ],
+        [
+          "zip",
+          "javadoc",
+          "7e4a368f7639fb0255ac9532fb3270b2"
+        ],
+        [
+          "jar",
+          "installer",
+          "e891a0b78210de523819b38d214122ec"
+        ],
+        [
+          "txt",
+          "changelog",
+          "3cc0bff9e18bab6184c3b37c49d9261e"
+        ],
+        [
+          "zip",
+          "src",
+          "db9a7d8937e869245dd9308d79ee481d"
+        ]
+      ],
+      "jobver": "10.12.0",
+      "mcversion": "1.7.2",
+      "modified": 1388206408.3398268,
+      "version": "10.12.0.971"
+    },
+    "972": {
+      "branch": null,
+      "build": 972,
+      "files": [
+        [
+          "jar",
+          "userdev",
+          "295b78c4ab32dd84a1ce5d6e7a6af56f"
+        ],
+        [
+          "txt",
+          "changelog",
+          "f7b0a2287cdc1258964dea04e7e58ff7"
+        ],
+        [
+          "jar",
+          "installer",
+          "a980c6b52cf0fab41d84a0aa95cefd5c"
+        ],
+        [
+          "exe",
+          "installer-win",
+          "49b7d2cb90c6e06951fd4a44a43c913f"
+        ],
+        [
+          "zip",
+          "javadoc",
+          "3cb2026cecfb948293347dcd68538bae"
+        ],
+        [
+          "jar",
+          "universal",
+          "32956981a6854eae777d00ba4f927733"
+        ],
+        [
+          "zip",
+          "src",
+          "201e416a331aca1d42c4132a02d34493"
+        ]
+      ],
+      "jobver": "10.12.0",
+      "mcversion": "1.7.2",
+      "modified": 1388256870.7910438,
+      "version": "10.12.0.972"
+    },
+    "973": {
+      "branch": null,
+      "build": 973,
+      "files": [
+        [
+          "jar",
+          "installer",
+          "54cf526b7cc8b456da144ecb8b4641cb"
+        ],
+        [
+          "jar",
+          "userdev",
+          "8116b96c89f787ea54cc9ab17d329c32"
+        ],
+        [
+          "txt",
+          "changelog",
+          "b51b4bdb8792ec3212b607dd9877e71f"
+        ],
+        [
+          "zip",
+          "src",
+          "c3ab477168b6eec930b0fd4ff16872ae"
+        ],
+        [
+          "jar",
+          "universal",
+          "8bd6ffa6b7a697609eb2590dd943d959"
+        ],
+        [
+          "zip",
+          "javadoc",
+          "0b377899185c0a9ed22d815a0f3c1d3c"
+        ],
+        [
+          "exe",
+          "installer-win",
+          "c604a4100e396f20fec237cef1995a19"
+        ]
+      ],
+      "jobver": "10.12.0",
+      "mcversion": "1.7.2",
+      "modified": 1388268437.1468644,
+      "version": "10.12.0.973"
+    },
+    "974": {
+      "branch": null,
+      "build": 974,
+      "files": [
+        [
+          "exe",
+          "installer-win",
+          "d3aa746c281b8c200d46171a4152b55d"
+        ],
+        [
+          "jar",
+          "installer",
+          "6a1997cb22a10b491a1bf2f9d1c0d7c1"
+        ],
+        [
+          "jar",
+          "userdev",
+          "a87971f66b87e76ef2ba71521e40be4d"
+        ],
+        [
+          "zip",
+          "src",
+          "08dfb17587d38c6c055753e115363d3d"
+        ],
+        [
+          "zip",
+          "javadoc",
+          "3e6c4452222783caf9e728610c90b61d"
+        ],
+        [
+          "txt",
+          "changelog",
+          "0ade0cfb8c967a1f9cbbf97ea24ef40b"
+        ],
+        [
+          "jar",
+          "universal",
+          "9c0fff97d939121bcfbaca8655d671d0"
+        ]
+      ],
+      "jobver": "10.12.0",
+      "mcversion": "1.7.2",
+      "modified": 1388268833.7788582,
+      "version": "10.12.0.974"
+    },
+    "975": {
+      "branch": null,
+      "build": 975,
+      "files": [
+        [
+          "zip",
+          "javadoc",
+          "86a2f4fe2646b347d19fb9bf34254156"
+        ],
+        [
+          "exe",
+          "installer-win",
+          "ba8d4bec4968d20428bc72aeea11527f"
+        ],
+        [
+          "jar",
+          "installer",
+          "a20e8bcf930882a9aa9c0a6a618c4681"
+        ],
+        [
+          "zip",
+          "src",
+          "325b6b643d1bac7e58911852d68189ea"
+        ],
+        [
+          "txt",
+          "changelog",
+          "65bdd853379bb106b17e074ef1bdaa52"
+        ],
+        [
+          "jar",
+          "universal",
+          "9aad8c68380d3772162f312a886bea44"
+        ],
+        [
+          "jar",
+          "userdev",
+          "e2d05bfa0bc119d76c0f86266ae439f0"
+        ]
+      ],
+      "jobver": "10.12.0",
+      "mcversion": "1.7.2",
+      "modified": 1388271530.0628164,
+      "version": "10.12.0.975"
+    },
+    "976": {
+      "branch": null,
+      "build": 976,
+      "files": [
+        [
+          "exe",
+          "installer-win",
+          "b1dd929d52a137c1539cb21b04c8ab47"
+        ],
+        [
+          "jar",
+          "universal",
+          "1b910285b783bfcc8dc88837b79ef62a"
+        ],
+        [
+          "zip",
+          "javadoc",
+          "f9f187bbcddca4ca4009fb76e073b640"
+        ],
+        [
+          "jar",
+          "installer",
+          "f79a5fcbd4245cceb8331b8182544be9"
+        ],
+        [
+          "zip",
+          "src",
+          "14c4d033ad11c2ef8213ec4fd1317b80"
+        ],
+        [
+          "jar",
+          "userdev",
+          "27fd11c5abfdc52e8bf42850e7806165"
+        ],
+        [
+          "txt",
+          "changelog",
+          "9354f937607bbb1e88ddef9b232d1241"
+        ]
+      ],
+      "jobver": "10.12.0",
+      "mcversion": "1.7.2",
+      "modified": 1388272294.5788045,
+      "version": "10.12.0.976"
+    },
+    "977": {
+      "branch": null,
+      "build": 977,
+      "files": [
+        [
+          "zip",
+          "src",
+          "59384e0f462a6203c23dd5462207f589"
+        ],
+        [
+          "jar",
+          "universal",
+          "4825d761672eebfc14f1016b88edca5e"
+        ],
+        [
+          "jar",
+          "userdev",
+          "76afa0d793c9fa4e313370ce9fe4b9d3"
+        ],
+        [
+          "exe",
+          "installer-win",
+          "2f0ce99d69175470917005a89277b830"
+        ],
+        [
+          "txt",
+          "changelog",
+          "ee9700715ab79ff52adac766462c6a25"
+        ],
+        [
+          "zip",
+          "javadoc",
+          "711b3775053b38970301dfab3b65859b"
+        ],
+        [
+          "jar",
+          "installer",
+          "b22afb28fd99619147c00fb948a9651a"
+        ]
+      ],
+      "jobver": "10.12.0",
+      "mcversion": "1.7.2",
+      "modified": 1388428288.848384,
+      "version": "10.12.0.977"
+    },
+    "979": {
+      "branch": null,
+      "build": 979,
+      "files": [
+        [
+          "exe",
+          "installer-win",
+          "76dda8178dbba7924f3509157b9ed16b"
+        ],
+        [
+          "jar",
+          "installer",
+          "ed59b90cb530fc6e12979eecb16797e0"
+        ],
+        [
+          "zip",
+          "src",
+          "ef0cea8790b413a10e6b8cf76e19df7b"
+        ],
+        [
+          "zip",
+          "javadoc",
+          "c820309578a91794015a1297412e2087"
+        ],
+        [
+          "jar",
+          "universal",
+          "62ab0f6a28c0fb05aaecb800beda0af1"
+        ],
+        [
+          "jar",
+          "userdev",
+          "df9217f35e52ab0b5301a2030cde534b"
+        ],
+        [
+          "txt",
+          "changelog",
+          "4744aefb3d3dc53709b6501911379caa"
+        ]
+      ],
+      "jobver": "10.12.0",
+      "mcversion": "1.7.2",
+      "modified": 1388523174.7429113,
+      "version": "10.12.0.979"
+    },
+    "980": {
+      "branch": null,
+      "build": 980,
+      "files": [
+        [
+          "jar",
+          "universal",
+          "ffd48e34e0a7dd41ddc39c230ef92fca"
+        ],
+        [
+          "exe",
+          "installer-win",
+          "5b25f34c07031d10ce6a4ea5255f49f3"
+        ],
+        [
+          "jar",
+          "userdev",
+          "c22cbb9d8baabfdaad2de7ae1bbf8c9c"
+        ],
+        [
+          "jar",
+          "installer",
+          "a6aa414a74507c2a6d26209afa1c44b6"
+        ],
+        [
+          "txt",
+          "changelog",
+          "ffdba6ba6b453ef9cbc8e55c9fb68282"
+        ],
+        [
+          "zip",
+          "javadoc",
+          "c7ade1b83c7bd12c935d08dace510ab3"
+        ],
+        [
+          "zip",
+          "src",
+          "8fa4cf5e3bd41c963124d59b4a372fda"
+        ]
+      ],
+      "jobver": "10.12.0",
+      "mcversion": "1.7.2",
+      "modified": 1388524293.210894,
+      "version": "10.12.0.980"
+    },
+    "981": {
+      "branch": null,
+      "build": 981,
+      "files": [
+        [
+          "jar",
+          "installer",
+          "280a3ddb05cf7c1e178ac18daadb7fa0"
+        ],
+        [
+          "txt",
+          "changelog",
+          "e10e9aa8b08a1fa6cc016de48db2005a"
+        ],
+        [
+          "zip",
+          "javadoc",
+          "4b992ef1debf5d85f4abc3a27c2e51f8"
+        ],
+        [
+          "jar",
+          "userdev",
+          "b302e2bf2a3fad33ff35a343e1955da6"
+        ],
+        [
+          "jar",
+          "universal",
+          "75fa98ddfa7034e3403224c724f8dfce"
+        ],
+        [
+          "zip",
+          "src",
+          "88b489ca697c19b5c66f8f07624311c5"
+        ],
+        [
+          "exe",
+          "installer-win",
+          "16eb215f3197ef2fb1a11ff9942449a4"
+        ]
+      ],
+      "jobver": "10.12.0",
+      "mcversion": "1.7.2",
+      "modified": 1388524400.6908925,
+      "version": "10.12.0.981"
+    },
+    "982": {
+      "branch": null,
+      "build": 982,
+      "files": [
+        [
+          "jar",
+          "installer",
+          "eb22b1c5782ece8b4ff9adbd903bac3d"
+        ],
+        [
+          "jar",
+          "userdev",
+          "8c7aa2a3b542070317a41f8377df70c1"
+        ],
+        [
+          "zip",
+          "src",
+          "9749e01ec2f1827edc3afe84b0b05f87"
+        ],
+        [
+          "exe",
+          "installer-win",
+          "ba349b806167c2c7752faf315f2a8616"
+        ],
+        [
+          "zip",
+          "javadoc",
+          "b61aae8df5d2e79f7f13d73e3e0d323d"
+        ],
+        [
+          "txt",
+          "changelog",
+          "dbbdf2a628f420873ec251491de18fc5"
+        ],
+        [
+          "jar",
+          "universal",
+          "52b01e9ddc79485418ab8aaf781b51ea"
+        ]
+      ],
+      "jobver": "10.12.0",
+      "mcversion": "1.7.2",
+      "modified": 1388563134.1262913,
+      "version": "10.12.0.982"
+    },
+    "984": {
+      "branch": null,
+      "build": 984,
+      "files": [
+        [
+          "jar",
+          "universal",
+          "d28424acba1dd0b249b4eaeee5c14be9"
+        ],
+        [
+          "jar",
+          "userdev",
+          "632dbe774572575ce503c72bc730aea5"
+        ],
+        [
+          "zip",
+          "src",
+          "e73c613effc3eab4c0a6b1a1be10eb62"
+        ],
+        [
+          "exe",
+          "installer-win",
+          "40cb70fd2a5b1fb6f106431854ae0658"
+        ],
+        [
+          "txt",
+          "changelog",
+          "29d170b27ca343eb036e4bf8334b6395"
+        ],
+        [
+          "jar",
+          "installer",
+          "c6dc812e1243c8010d5122bfe135030d"
+        ],
+        [
+          "zip",
+          "javadoc",
+          "020b6966cd482fd7319cbf1036d1d777"
+        ]
+      ],
+      "jobver": "10.12.0",
+      "mcversion": "1.7.2",
+      "modified": 1388721130.2758396,
+      "version": "10.12.0.984"
+    },
+    "985": {
+      "branch": null,
+      "build": 985,
+      "files": [
+        [
+          "zip",
+          "javadoc",
+          "5440bfad8b96aadd153fd09a9ae41fcf"
+        ],
+        [
+          "jar",
+          "universal",
+          "612f70a5b636dd9327d00d3c6fda891e"
+        ],
+        [
+          "txt",
+          "changelog",
+          "817c364d0ae6b61662ef1091b66b95a4"
+        ],
+        [
+          "zip",
+          "src",
+          "e3c2b51c880ca8857912b26d08b129df"
+        ],
+        [
+          "jar",
+          "userdev",
+          "6f6bb9571994057e0c1a8c460b1e6b7a"
+        ],
+        [
+          "jar",
+          "installer",
+          "690cc294ec7fc3207468c87c425b532a"
+        ],
+        [
+          "exe",
+          "installer-win",
+          "c3a20631efc860643dd3842ef8215052"
+        ]
+      ],
+      "jobver": "10.12.0",
+      "mcversion": "1.7.2",
+      "modified": 1388721530.0558336,
+      "version": "10.12.0.985"
+    },
+    "986": {
+      "branch": null,
+      "build": 986,
+      "files": [
+        [
+          "jar",
+          "universal",
+          "1a23c340e1dc03b1aacefc85f9837471"
+        ],
+        [
+          "exe",
+          "installer-win",
+          "3b7f3c909aefec660b4d2880b025cadf"
+        ],
+        [
+          "jar",
+          "userdev",
+          "7fb620e62aba18b7288622a65bfcdb7f"
+        ],
+        [
+          "zip",
+          "javadoc",
+          "2bd1c301590635af5075f69cc92a8c83"
+        ],
+        [
+          "txt",
+          "changelog",
+          "7c6b115942394974994f033b6a01354c"
+        ],
+        [
+          "zip",
+          "src",
+          "18c921c5b91c0ed25cdc746204afd4e2"
+        ],
+        [
+          "jar",
+          "installer",
+          "b1b951217a4abae812881a5cb12bee62"
+        ]
+      ],
+      "jobver": "10.12.0",
+      "mcversion": "1.7.2",
+      "modified": 1388794805.7986965,
+      "version": "10.12.0.986"
+    },
+    "987": {
+      "branch": null,
+      "build": 987,
+      "files": [
+        [
+          "zip",
+          "src",
+          "83c80f3bd20c8675a692b8548f070cc0"
+        ],
+        [
+          "jar",
+          "installer",
+          "01c63669b649eda27a243d98296056f3"
+        ],
+        [
+          "jar",
+          "universal",
+          "7885ac146c8a5c86658733b4c3dd1de2"
+        ],
+        [
+          "zip",
+          "javadoc",
+          "62d5595d21aa6751efade0f5329279f1"
+        ],
+        [
+          "exe",
+          "installer-win",
+          "5ced94af586dfe3aa1482a88259110f9"
+        ],
+        [
+          "txt",
+          "changelog",
+          "879c6152a390249a42838241afc08c12"
+        ],
+        [
+          "jar",
+          "userdev",
+          "6675b1252c35280376a2449826210462"
+        ]
+      ],
+      "jobver": "10.12.0",
+      "mcversion": "1.7.2",
+      "modified": 1388801453.2345932,
+      "version": "10.12.0.987"
+    },
+    "989": {
+      "branch": null,
+      "build": 989,
+      "files": [
+        [
+          "exe",
+          "installer-win",
+          "df161e66cd6719b2e73697f1d73e3964"
+        ],
+        [
+          "jar",
+          "universal",
+          "c23e16c9cc30ad0710a88186cee051a2"
+        ],
+        [
+          "jar",
+          "installer",
+          "380ccfbd118c4c604681779f7df82de2"
+        ],
+        [
+          "zip",
+          "javadoc",
+          "abc165930b79550301080e7bc3d271d8"
+        ],
+        [
+          "zip",
+          "src",
+          "a0d2843d7be004e733bd9bec5c166293"
+        ],
+        [
+          "txt",
+          "changelog",
+          "5369f2b189b5bd11fe098bafb2213568"
+        ],
+        [
+          "jar",
+          "userdev",
+          "6a388c06b47630302e93c674f29e4c5c"
+        ]
+      ],
+      "jobver": "10.12.0",
+      "mcversion": "1.7.2",
+      "modified": 1388804408.4425473,
+      "version": "10.12.0.989"
+    },
+    "990": {
+      "branch": null,
+      "build": 990,
+      "files": [
+        [
+          "jar",
+          "userdev",
+          "808752ae95792855352bf7c98173069e"
+        ],
+        [
+          "jar",
+          "universal",
+          "d5817464ecce5af21e64fc3c429df30c"
+        ],
+        [
+          "exe",
+          "installer-win",
+          "7fd2cc6d7c6c21cd4b8ea5005f9cd098"
+        ],
+        [
+          "jar",
+          "installer",
+          "632074222d9f3672cafe69a67e9f35ab"
+        ],
+        [
+          "txt",
+          "changelog",
+          "a2970b7a5cc71f400499064a5650a709"
+        ],
+        [
+          "zip",
+          "javadoc",
+          "549946a27504c31159e2a3a34c6e4b64"
+        ],
+        [
+          "zip",
+          "src",
+          "6bce68e771813afc18212dc54e1c48c1"
+        ]
+      ],
+      "jobver": "10.12.0",
+      "mcversion": "1.7.2",
+      "modified": 1388808813.094479,
+      "version": "10.12.0.990"
+    },
+    "991": {
+      "branch": null,
+      "build": 991,
+      "files": [
+        [
+          "txt",
+          "changelog",
+          "a49906b15fd5aaf011a8e45bec45feb1"
+        ],
+        [
+          "jar",
+          "installer",
+          "8df472fb8bd57f99e878b0c558ae8e6c"
+        ],
+        [
+          "exe",
+          "installer-win",
+          "cd7f85d5eb8f6017ad80593046b1c403"
+        ],
+        [
+          "jar",
+          "userdev",
+          "31aad41693db65131784f0fbd54856ed"
+        ],
+        [
+          "zip",
+          "javadoc",
+          "baf72c96c6e74e9af3c075fa71e7510d"
+        ],
+        [
+          "jar",
+          "universal",
+          "10154825c76c2b059aafe4bc882748a9"
+        ],
+        [
+          "zip",
+          "src",
+          "7413d54b45fc385606b22d9c12510427"
+        ]
+      ],
+      "jobver": "10.12.0",
+      "mcversion": "1.7.2",
+      "modified": 1388823246.5222552,
+      "version": "10.12.0.991"
+    },
+    "993": {
+      "branch": null,
+      "build": 993,
+      "files": [
+        [
+          "jar",
+          "installer",
+          "29ccaf3728122963f8a2a78259d7ecb1"
+        ],
+        [
+          "jar",
+          "universal",
+          "bfdd38aad944a13ed9f4047b20dfd44d"
+        ],
+        [
+          "zip",
+          "src",
+          "fe1658919cd2fa82275887d62b8c9539"
+        ],
+        [
+          "txt",
+          "changelog",
+          "90a5ad93424b0a97a3132d35718882e9"
+        ],
+        [
+          "exe",
+          "installer-win",
+          "9f0b567c9e89ee3563f81f2b36550e6d"
+        ],
+        [
+          "zip",
+          "javadoc",
+          "759c52823ebb7fc81dedd0299ccb21d2"
+        ],
+        [
+          "jar",
+          "userdev",
+          "a5db82d002197b560baaca76443769f2"
+        ]
+      ],
+      "jobver": "10.12.0",
+      "mcversion": "1.7.2",
+      "modified": 1388880522.4173663,
+      "version": "10.12.0.993"
+    },
+    "994": {
+      "branch": null,
+      "build": 994,
+      "files": [
+        [
+          "jar",
+          "installer",
+          "236302f26df27ecd0aee95f66c1cc008"
+        ],
+        [
+          "txt",
+          "changelog",
+          "b51f54a5ee344fc10186f1df946240b1"
+        ],
+        [
+          "jar",
+          "userdev",
+          "852638f353a31c630dc0fde3dabbc0c2"
+        ],
+        [
+          "zip",
+          "src",
+          "c74dd98574a9ad570d8193cf9185258c"
+        ],
+        [
+          "jar",
+          "universal",
+          "06f625a8e7ed7f8b0ce6ddfa7be17311"
+        ],
+        [
+          "zip",
+          "javadoc",
+          "a25ba558db812e456461f0e26f9a834f"
+        ],
+        [
+          "exe",
+          "installer-win",
+          "946b65b20e478316804d1ad931a59a82"
+        ]
+      ],
+      "jobver": "10.12.0",
+      "mcversion": "1.7.2",
+      "modified": 1388978004.6078537,
+      "version": "10.12.0.994"
+    },
+    "995": {
+      "branch": null,
+      "build": 995,
+      "files": [
+        [
+          "txt",
+          "changelog",
+          "7ca08ef87903062f87cfb4b88a2f601a"
+        ],
+        [
+          "jar",
+          "installer",
+          "8a5651904721e74253b8c5564538a1b1"
+        ],
+        [
+          "exe",
+          "installer-win",
+          "09eec9b62b649341e81e2ec2c702851d"
+        ],
+        [
+          "zip",
+          "javadoc",
+          "d3819eee20f2a668bc4dd6a923b0af8d"
+        ],
+        [
+          "zip",
+          "src",
+          "c99ba1b1d436698bb9f50d1c98e0919e"
+        ],
+        [
+          "jar",
+          "universal",
+          "6881d2e15ee6ea9b074bdda81afc471e"
+        ],
+        [
+          "jar",
+          "userdev",
+          "0f9394846d88d510c2f5b2851e9b7c61"
+        ]
+      ],
+      "jobver": "10.12.0",
+      "mcversion": "1.7.2",
+      "modified": 1388985208.787742,
+      "version": "10.12.0.995"
+    },
+    "996": {
+      "branch": null,
+      "build": 996,
+      "files": [
+        [
+          "jar",
+          "universal",
+          "d5434f8cd7a6c11f7515d971c516bdb1"
+        ],
+        [
+          "zip",
+          "src",
+          "5e7a17ee9c60ba1b13c20c8e0b9434ec"
+        ],
+        [
+          "jar",
+          "userdev",
+          "08ff7f857469073c56a72d53e4b6bd63"
+        ],
+        [
+          "zip",
+          "javadoc",
+          "c6945715fef858e6684506a2cafa3cc8"
+        ],
+        [
+          "exe",
+          "installer-win",
+          "7e51112a582aeac0e0d2081c23d3dbd2"
+        ],
+        [
+          "jar",
+          "installer",
+          "a4741cb426ea42260ce62435488d63cd"
+        ],
+        [
+          "txt",
+          "changelog",
+          "00980a5b25ff03a2f3b1dc717b6af488"
+        ]
+      ],
+      "jobver": "10.12.0",
+      "mcversion": "1.7.2",
+      "modified": 1389069059.9024408,
+      "version": "10.12.0.996"
+    },
+    "997": {
+      "branch": null,
+      "build": 997,
+      "files": [
+        [
+          "exe",
+          "installer-win",
+          "eb7008197da79c7846f43d47dba7da30"
+        ],
+        [
+          "jar",
+          "userdev",
+          "9a45646232e23b9f00bc972cc454d40a"
+        ],
+        [
+          "jar",
+          "universal",
+          "4d902db3784695aba427108cce02b387"
+        ],
+        [
+          "txt",
+          "changelog",
+          "3dfa8ae5dbb886c9f9252e796d8d0229"
+        ],
+        [
+          "zip",
+          "src",
+          "2ba6427366e77d491c11a81958181da6"
+        ],
+        [
+          "zip",
+          "javadoc",
+          "7bcd8c291031048932e0c03343bf5f90"
+        ],
+        [
+          "jar",
+          "installer",
+          "f18078fb507bb5f8721fd4c98d2250a5"
+        ]
+      ],
+      "jobver": "10.12.0",
+      "mcversion": "1.7.2",
+      "modified": 1389275569.0072362,
+      "version": "10.12.0.997"
+    },
+    "998": {
+      "branch": null,
+      "build": 998,
+      "files": [
+        [
+          "jar",
+          "userdev",
+          "d7dadcc46358bf5d6153da8ddebbbf62"
+        ],
+        [
+          "zip",
+          "javadoc",
+          "81f29fb016577b747fb12a3b564ea626"
+        ],
+        [
+          "exe",
+          "installer-win",
+          "13499aac79344bf9020a391202d6c787"
+        ],
+        [
+          "jar",
+          "installer",
+          "1f9a82a97935ce2d32d8771ea3b3cf52"
+        ],
+        [
+          "jar",
+          "universal",
+          "f776e84addd426fb91ec2f6ff857fcb2"
+        ],
+        [
+          "zip",
+          "src",
+          "c554301bd1c8fdafc73ce487483238e5"
+        ],
+        [
+          "txt",
+          "changelog",
+          "096d31fe5a879ffdc1ca5f359e485155"
+        ]
+      ],
+      "jobver": "10.12.0",
+      "mcversion": "1.7.2",
+      "modified": 1389490672.3438983,
+      "version": "10.12.0.998"
+    },
+    "999": {
+      "branch": null,
+      "build": 999,
+      "files": [
+        [
+          "jar",
+          "userdev",
+          "ffbff4441cfdbdc39095b7c38588ce70"
+        ],
+        [
+          "jar",
+          "installer",
+          "15b44bb3cb91009f6193e3f5812696f3"
+        ],
+        [
+          "txt",
+          "changelog",
+          "b682aa77400f64c7189287310ff82aa6"
+        ],
+        [
+          "zip",
+          "src",
+          "8dd14e4481a31bd65817a2437bd827b9"
+        ],
+        [
+          "jar",
+          "universal",
+          "c8940d59edccf23ac8c1167a74069b29"
+        ],
+        [
+          "zip",
+          "javadoc",
+          "fd8125b3475276fcbe675c562b09cbca"
+        ],
+        [
+          "exe",
+          "installer-win",
+          "8e8510aaaa40fef409452460fd4645f2"
+        ]
+      ],
+      "jobver": "10.12.0",
+      "mcversion": "1.7.2",
+      "modified": 1389755327.5637915,
+      "version": "10.12.0.999"
+    },
+    "1000": {
+      "branch": null,
+      "build": 1000,
+      "files": [
+        [
+          "zip",
+          "src",
+          "f7bbecaa88b61475b5f04537c847261a"
+        ],
+        [
+          "txt",
+          "changelog",
+          "78c97221ecebeb3789765e7f876565ce"
+        ],
+        [
+          "jar",
+          "userdev",
+          "c134b989c45db13ff3e244b7dd6b944a"
+        ],
+        [
+          "exe",
+          "installer-win",
+          "c2980c87c19b81e8de7b667e74592eaa"
+        ],
+        [
+          "jar",
+          "universal",
+          "dc32e71682498538a884387192fef411"
+        ],
+        [
+          "zip",
+          "javadoc",
+          "7864be641b4fd8a92398f3195b75ad0a"
+        ],
+        [
+          "jar",
+          "installer",
+          "92c46dcfd10347d5269427bdbd7a2279"
+        ]
+      ],
+      "jobver": "10.12.0",
+      "mcversion": "1.7.2",
+      "modified": 1389903233.1734965,
+      "version": "10.12.0.1000"
+    },
+    "1001": {
+      "branch": null,
+      "build": 1001,
+      "files": [
+        [
+          "jar",
+          "installer",
+          "9042992e8ff4c3b5abb9fe75be021615"
+        ],
+        [
+          "txt",
+          "changelog",
+          "b36d3e00701e0bf4c34a9cdc33ea051a"
+        ],
+        [
+          "jar",
+          "userdev",
+          "fe5c6d1c18f14cb6bfda4a89f3855fa6"
+        ],
+        [
+          "jar",
+          "universal",
+          "60341a0ab7d264609649f54ecbdc42f2"
+        ],
+        [
+          "exe",
+          "installer-win",
+          "3c9a439ff9609d6687eab903b763b5d4"
+        ],
+        [
+          "zip",
+          "src",
+          "62f97b3fb23f43cd996f775cf4c15d85"
+        ],
+        [
+          "zip",
+          "javadoc",
+          "b813727e41f5792ad4e685f9d0d67faf"
+        ]
+      ],
+      "jobver": "10.12.0",
+      "mcversion": "1.7.2",
+      "modified": 1389914737.725318,
+      "version": "10.12.0.1001"
+    },
+    "1002": {
+      "branch": null,
+      "build": 1002,
+      "files": [
+        [
+          "txt",
+          "changelog",
+          "48246f521b558a56d9e68ef7726baaad"
+        ],
+        [
+          "jar",
+          "installer",
+          "9a3409fdf567152b14059382e7977c83"
+        ],
+        [
+          "jar",
+          "userdev",
+          "214ebc31950796275403d11679af3c9f"
+        ],
+        [
+          "zip",
+          "src",
+          "5dfb4d1e8754d3d06a34d2f70ac457a3"
+        ],
+        [
+          "jar",
+          "universal",
+          "e55195f257980e85dc59ca2a15ddff62"
+        ],
+        [
+          "zip",
+          "javadoc",
+          "ff5fd26b9bb8bcb9f635452ade43394c"
+        ],
+        [
+          "exe",
+          "installer-win",
+          "51f64afdf7ab1048228cd625179c0e81"
+        ]
+      ],
+      "jobver": "10.12.0",
+      "mcversion": "1.7.2",
+      "modified": 1389919989.2212365,
+      "version": "10.12.0.1002"
+    },
+    "1003": {
+      "branch": null,
+      "build": 1003,
+      "files": [
+        [
+          "jar",
+          "universal",
+          "15f58ecd75a5efc3638c1666b4a0a573"
+        ],
+        [
+          "zip",
+          "src",
+          "aa2547226c2cc14fdac11f2670e63947"
+        ],
+        [
+          "jar",
+          "userdev",
+          "d216b233cad1dea4e3a126eb4ec82713"
+        ],
+        [
+          "txt",
+          "changelog",
+          "55ccd868b855182d2150798968378388"
+        ],
+        [
+          "jar",
+          "installer",
+          "ca3ada221ef81b829ea7a70050247f48"
+        ],
+        [
+          "zip",
+          "javadoc",
+          "70e2493c9dd6cfeb46c97b975cf516aa"
+        ],
+        [
+          "exe",
+          "installer-win",
+          "abc27d5ca80c1aab3ba25b53a0c96c0d"
+        ]
+      ],
+      "jobver": "10.12.0",
+      "mcversion": "1.7.2",
+      "modified": 1389996675.7720466,
+      "version": "10.12.0.1003"
+    },
+    "1004": {
+      "branch": null,
+      "build": 1004,
+      "files": [
+        [
+          "jar",
+          "installer",
+          "d675f148a0a7e774732d50163a7913fc"
+        ],
+        [
+          "exe",
+          "installer-win",
+          "4362afee14624d23afd74f73619dd907"
+        ],
+        [
+          "zip",
+          "src",
+          "a40c7cc50da4eb65c5b0dc11afa261da"
+        ],
+        [
+          "txt",
+          "changelog",
+          "0183947346eea6d38e11981e796f4318"
+        ],
+        [
+          "jar",
+          "universal",
+          "a1f2aab887affa0f9cfd9d8b44ccdfa0"
+        ],
+        [
+          "jar",
+          "userdev",
+          "02a1ed2130b8601efa082079d178bf0b"
+        ],
+        [
+          "zip",
+          "javadoc",
+          "835ba89c518142d2bbc64a238a2b761e"
+        ]
+      ],
+      "jobver": "10.12.0",
+      "mcversion": "1.7.2",
+      "modified": 1390024896.1316085,
+      "version": "10.12.0.1004"
+    },
+    "1005": {
+      "branch": null,
+      "build": 1005,
+      "files": [
+        [
+          "exe",
+          "installer-win",
+          "7bb48d11b2db792a80fea09a01dd2f3e"
+        ],
+        [
+          "jar",
+          "userdev",
+          "1d2818c59c1e97a256498a871b04d68d"
+        ],
+        [
+          "zip",
+          "src",
+          "3acb4cd485403eaf0a1d32efacf18841"
+        ],
+        [
+          "jar",
+          "installer",
+          "38d119e66f6cdd12cdef2c55f40b7eaa"
+        ],
+        [
+          "jar",
+          "universal",
+          "c61cc2109247ca384c80bf1cb209e947"
+        ],
+        [
+          "zip",
+          "javadoc",
+          "7e19044c7369f1bd4631551d7d2cded1"
+        ],
+        [
+          "txt",
+          "changelog",
+          "c496b66ac8610f28b851e10aa6296de5"
+        ]
+      ],
+      "jobver": "10.12.0",
+      "mcversion": "1.7.2",
+      "modified": 1390049462.3512273,
+      "version": "10.12.0.1005"
+    },
+    "1006": {
+      "branch": null,
+      "build": 1006,
+      "files": [
+        [
+          "zip",
+          "src",
+          "1d6c2c5892a960f42d353504a8734a8f"
+        ],
+        [
+          "jar",
+          "universal",
+          "14b84f27c52341753550ec6c180500da"
+        ],
+        [
+          "jar",
+          "installer",
+          "3f1c17e79fa7b22829c1802686283725"
+        ],
+        [
+          "exe",
+          "installer-win",
+          "1a385cf393ca976dfc2afa56c1c6c037"
+        ],
+        [
+          "jar",
+          "userdev",
+          "241045b3bc77edcf63364ebc76f1e981"
+        ],
+        [
+          "zip",
+          "javadoc",
+          "c4c93dc3ff97b07a93d20df200bd5b10"
+        ],
+        [
+          "txt",
+          "changelog",
+          "bc389066634791fbef717e53c391ea65"
+        ]
+      ],
+      "jobver": "10.12.0",
+      "mcversion": "1.7.2",
+      "modified": 1390080468.9667463,
+      "version": "10.12.0.1006"
+    },
+    "1007": {
+      "branch": null,
+      "build": 1007,
+      "files": [
+        [
+          "jar",
+          "userdev",
+          "08095e090b4bb084795a7b39ca10efbe"
+        ],
+        [
+          "exe",
+          "installer-win",
+          "5a48a8794479a544f70cf7b773d65dce"
+        ],
+        [
+          "zip",
+          "src",
+          "b9461f5c7445245ebaff3e460c02c591"
+        ],
+        [
+          "zip",
+          "javadoc",
+          "f8ba9b15918cadc947c5d7d7c559fae0"
+        ],
+        [
+          "jar",
+          "universal",
+          "4e5d5b9ec5b1a82c9e1282cd1954a6bf"
+        ],
+        [
+          "txt",
+          "changelog",
+          "f12ced841c26138c18147f1ed03eede4"
+        ],
+        [
+          "jar",
+          "installer",
+          "3d895980b29d807a69cfc662d07ae61d"
+        ]
+      ],
+      "jobver": "10.12.0",
+      "mcversion": "1.7.2",
+      "modified": 1390082371.0267167,
+      "version": "10.12.0.1007"
+    },
+    "1008": {
+      "branch": null,
+      "build": 1008,
+      "files": [
+        [
+          "zip",
+          "javadoc",
+          "238d27cb35154f82ee4fba7c02be7711"
+        ],
+        [
+          "jar",
+          "universal",
+          "9a396cf60862bfdebc4569ca9f5f0edd"
+        ],
+        [
+          "jar",
+          "installer",
+          "137a216c5dacdcec6f2caea85036fcbe"
+        ],
+        [
+          "exe",
+          "installer-win",
+          "820fbf0901a844c23cb149c925bb39de"
+        ],
+        [
+          "txt",
+          "changelog",
+          "bb286c66762b483b282702f0fd171e87"
+        ],
+        [
+          "jar",
+          "userdev",
+          "6d005b3c1310ced9fd4cfe83e65b8cc5"
+        ],
+        [
+          "zip",
+          "src",
+          "49206ba22caab2e298fb5654981e39aa"
+        ]
+      ],
+      "jobver": "10.12.0",
+      "mcversion": "1.7.2",
+      "modified": 1390237757.5003057,
+      "version": "10.12.0.1008"
+    },
+    "1009": {
+      "branch": null,
+      "build": 1009,
+      "files": [
+        [
+          "txt",
+          "changelog",
+          "184dd294b9e8c422abdbe7df5e4588c3"
+        ],
+        [
+          "zip",
+          "src",
+          "c83b6769655dfbf2753f4fee7134d021"
+        ],
+        [
+          "exe",
+          "installer-win",
+          "ab614c1d416b19021024146aaa054592"
+        ],
+        [
+          "jar",
+          "installer",
+          "995d2eea4e8a60f314f592be1e5b442b"
+        ],
+        [
+          "jar",
+          "userdev",
+          "f8d83337037025a6bba2edd805b937f2"
+        ],
+        [
+          "zip",
+          "javadoc",
+          "1f5cea717ce7cd14d284a2df3761dc7f"
+        ],
+        [
+          "jar",
+          "universal",
+          "547851a883e0ddc735f1b587312f72d5"
+        ]
+      ],
+      "jobver": "10.12.0",
+      "mcversion": "1.7.2",
+      "modified": 1390252915.1600704,
+      "version": "10.12.0.1009"
+    },
+    "1010": {
+      "branch": null,
+      "build": 1010,
+      "files": [
+        [
+          "jar",
+          "universal",
+          "a214767a95772fdd1880ce78be612850"
+        ],
+        [
+          "zip",
+          "src",
+          "9546a547bff75b2beb8fbeae683c1a3b"
+        ],
+        [
+          "zip",
+          "javadoc",
+          "20f5b8aab16001d9eb7541030eebabaf"
+        ],
+        [
+          "txt",
+          "changelog",
+          "b71a7c1ec41974fde7074cf62ef1e57b"
+        ],
+        [
+          "exe",
+          "installer-win",
+          "87ac134ba47a51b9aa3d4f7966717327"
+        ],
+        [
+          "jar",
+          "userdev",
+          "9aeb3a1bcc8f69772f6598af0ad3cfe0"
+        ],
+        [
+          "jar",
+          "installer",
+          "af31e007af681ee48f67af4b9db2892d"
+        ]
+      ],
+      "jobver": "10.12.0",
+      "mcversion": "1.7.2",
+      "modified": 1390255807.8960254,
+      "version": "10.12.0.1010"
+    },
+    "1011": {
+      "branch": null,
+      "build": 1011,
+      "files": [
+        [
+          "jar",
+          "installer",
+          "2a64e886ba98d754d89234414770f7b6"
+        ],
+        [
+          "jar",
+          "userdev",
+          "d845aba115ea8389ada6ac52298d0740"
+        ],
+        [
+          "exe",
+          "installer-win",
+          "366262b8b90ee0324dae7245301938e6"
+        ],
+        [
+          "zip",
+          "src",
+          "a35e7e1ba921be27f3b8ce77e2ea057d"
+        ],
+        [
+          "zip",
+          "javadoc",
+          "684bf217b7f61ed2241f302ec5bfc8bd"
+        ],
+        [
+          "txt",
+          "changelog",
+          "395e8186f560a1456d597942d8a6a23c"
+        ],
+        [
+          "jar",
+          "universal",
+          "dd3f069e611df5e91456f9afa1180723"
+        ]
+      ],
+      "jobver": "10.12.0",
+      "mcversion": "1.7.2",
+      "modified": 1390257373.4800012,
+      "version": "10.12.0.1011"
+    },
+    "1012": {
+      "branch": null,
+      "build": 1012,
+      "files": [
+        [
+          "jar",
+          "installer",
+          "35819fe51d38b005a62f1ce69b84b3e8"
+        ],
+        [
+          "zip",
+          "javadoc",
+          "57bda3be16d27af4cf0002e5932333d1"
+        ],
+        [
+          "jar",
+          "universal",
+          "ec99eab1b3b522c94c8035909908d8e9"
+        ],
+        [
+          "jar",
+          "userdev",
+          "e1a989cf63c5b7d40232fb850407f421"
+        ],
+        [
+          "txt",
+          "changelog",
+          "a8d0a1b42c80e7cbd35857122460ead4"
+        ],
+        [
+          "zip",
+          "src",
+          "89c3a4a0b29c1fb6482b78f7c8c56d12"
+        ],
+        [
+          "exe",
+          "installer-win",
+          "6eed0cbe2346796db7d0405e1e841582"
+        ]
+      ],
+      "jobver": "10.12.0",
+      "mcversion": "1.7.2",
+      "modified": 1390273835.9917457,
+      "version": "10.12.0.1012"
+    },
+    "1013": {
+      "branch": null,
+      "build": 1013,
+      "files": [
+        [
+          "txt",
+          "changelog",
+          "d39c5e2aab5b1111c96821cc816ac8f4"
+        ],
+        [
+          "jar",
+          "universal",
+          "f88fe8461ded966bf34210564736b1a6"
+        ],
+        [
+          "exe",
+          "installer-win",
+          "02553ae9ef60bd5fd382ceac9b72ef76"
+        ],
+        [
+          "jar",
+          "installer",
+          "63838e3dbcf54e5cc69ade45fd1a09b7"
+        ],
+        [
+          "jar",
+          "userdev",
+          "ab131f9bde6989942c8f4595173ac006"
+        ],
+        [
+          "zip",
+          "src",
+          "d64c5387e5a0d8e45fcc4526283a8d86"
+        ],
+        [
+          "zip",
+          "javadoc",
+          "8b0ef8defee537e54605cb7580136928"
+        ]
+      ],
+      "jobver": "10.12.0",
+      "mcversion": "1.7.2",
+      "modified": 1390434358.065255,
+      "version": "10.12.0.1013"
+    },
+    "1014": {
+      "branch": null,
+      "build": 1014,
+      "files": [
+        [
+          "jar",
+          "universal",
+          "f74aa00ae9314e6798e25c8706ef4eb0"
+        ],
+        [
+          "zip",
+          "javadoc",
+          "041cdea2c10591019f67e6b4de0db9e8"
+        ],
+        [
+          "zip",
+          "src",
+          "2b0cec384943236d205ea5df0dfebb30"
+        ],
+        [
+          "jar",
+          "installer",
+          "4c6a618e0e1bafd614781aebaec52e4e"
+        ],
+        [
+          "jar",
+          "userdev",
+          "a3734f656aa52ea40b4ce2d8b2ba5f25"
+        ],
+        [
+          "exe",
+          "installer-win",
+          "c34753bae384e0115f28c89c4d456744"
+        ],
+        [
+          "txt",
+          "changelog",
+          "f841adc5814a7dd66c8d7aa179905096"
+        ]
+      ],
+      "jobver": "10.12.0",
+      "mcversion": "1.7.2",
+      "modified": 1390615818.586439,
+      "version": "10.12.0.1014"
+    },
+    "1015": {
+      "branch": null,
+      "build": 1015,
+      "files": [
+        [
+          "jar",
+          "userdev",
+          "52616dd54b2e562205115802c77910a2"
+        ],
+        [
+          "jar",
+          "universal",
+          "10cc899595eac9b16d10eda24fb6ab17"
+        ],
+        [
+          "jar",
+          "installer",
+          "0b9d06d5ca30bcefe4c8a30c5a3f2aa3"
+        ],
+        [
+          "zip",
+          "javadoc",
+          "0b1122bda154c772eeaa93516fbe7a00"
+        ],
+        [
+          "zip",
+          "src",
+          "8433ed4fab14c88cd2537e64ea796e1d"
+        ],
+        [
+          "exe",
+          "installer-win",
+          "d7c695dd6b3d39ad2ca67473007df8dc"
+        ],
+        [
+          "txt",
+          "changelog",
+          "0a1708641f379b953b59cbfb4e4e7f65"
+        ]
+      ],
+      "jobver": "10.12.0",
+      "mcversion": "1.7.2",
+      "modified": 1390619791.9863772,
+      "version": "10.12.0.1015"
+    },
+    "1016": {
+      "branch": null,
+      "build": 1016,
+      "files": [
+        [
+          "zip",
+          "javadoc",
+          "ca7a197ba3bd3446cdad74adb826f946"
+        ],
+        [
+          "zip",
+          "src",
+          "dd594eef9ef57079bb03910ad3beffa5"
+        ],
+        [
+          "jar",
+          "universal",
+          "65c55ee7255b1937e3636cefdc3c51b7"
+        ],
+        [
+          "jar",
+          "userdev",
+          "6f45c468c5094231eb2a9236704c9ed6"
+        ],
+        [
+          "exe",
+          "installer-win",
+          "a654b7a4923edda46aff19bb66870014"
+        ],
+        [
+          "txt",
+          "changelog",
+          "25aa2bf112ddb22b0b2ecbcbbec19657"
+        ],
+        [
+          "jar",
+          "installer",
+          "d0d2caab68a50e8ae7696bb293f8c49d"
+        ]
+      ],
+      "jobver": "10.12.0",
+      "mcversion": "1.7.2",
+      "modified": 1390620452.634367,
+      "version": "10.12.0.1016"
+    },
+    "1017": {
+      "branch": null,
+      "build": 1017,
+      "files": [
+        [
+          "txt",
+          "changelog",
+          "c4275ffca3a230432130dccebee931fb"
+        ],
+        [
+          "jar",
+          "userdev",
+          "bd76b95dcbaea566cdcdbad616ca0632"
+        ],
+        [
+          "exe",
+          "installer-win",
+          "9fec9f1aa64933320ae9242a6a9896dc"
+        ],
+        [
+          "zip",
+          "javadoc",
+          "c81c5d3a142a32548213906ab591a3ff"
+        ],
+        [
+          "zip",
+          "src",
+          "eee83c9cf459e56a429187ea10d98124"
+        ],
+        [
+          "jar",
+          "installer",
+          "dbebd61d04060ae667d0739c920cef89"
+        ],
+        [
+          "jar",
+          "universal",
+          "b743d4b72ca6f936b7290661fe2660fb"
+        ]
+      ],
+      "jobver": "10.12.0",
+      "mcversion": "1.7.2",
+      "modified": 1390623120.3703258,
+      "version": "10.12.0.1017"
+    },
+    "1018": {
+      "branch": null,
+      "build": 1018,
+      "files": [
+        [
+          "txt",
+          "changelog",
+          "f718df770c1b249e7af5c07851a6f9ea"
+        ],
+        [
+          "jar",
+          "installer",
+          "7b14746a504abecea969006e33b70ebe"
+        ],
+        [
+          "zip",
+          "javadoc",
+          "ebd58855d0f8de6b7a8ddff3300791a9"
+        ],
+        [
+          "jar",
+          "universal",
+          "15d007faa467f52b7f7160bb9a6f6f64"
+        ],
+        [
+          "jar",
+          "userdev",
+          "a0b8d3a50b6f30656b0f726e0c64c5bd"
+        ],
+        [
+          "zip",
+          "src",
+          "e4f708ab7f9cd18d2f0bd3df88f76e45"
+        ],
+        [
+          "exe",
+          "installer-win",
+          "23b193cbbaa1dc489eb7e2db415e51a0"
+        ]
+      ],
+      "jobver": "10.12.0",
+      "mcversion": "1.7.2",
+      "modified": 1390628959.618235,
+      "version": "10.12.0.1018"
+    },
+    "1019": {
+      "branch": null,
+      "build": 1019,
+      "files": [
+        [
+          "exe",
+          "installer-win",
+          "35ba095efdb09332ef98eaef7ff93bc5"
+        ],
+        [
+          "zip",
+          "src",
+          "37b1cadad7aca52ee8a661aaf7364321"
+        ],
+        [
+          "txt",
+          "changelog",
+          "9e37e91eb88cc44964634f085e7ddc48"
+        ],
+        [
+          "jar",
+          "installer",
+          "d41dd04a05a289857d99b887bcecdfa9"
+        ],
+        [
+          "jar",
+          "userdev",
+          "36cf33061b1bbb44e4ec5477076eb858"
+        ],
+        [
+          "jar",
+          "universal",
+          "862123996816c2cdfc6ae2eb868a4ff7"
+        ],
+        [
+          "zip",
+          "javadoc",
+          "3efe2186bc76cf5dbb657137478ceee2"
+        ]
+      ],
+      "jobver": "10.12.0",
+      "mcversion": "1.7.2",
+      "modified": 1390649784.925912,
+      "version": "10.12.0.1019"
+    },
+    "1020": {
+      "branch": null,
+      "build": 1020,
+      "files": [
+        [
+          "zip",
+          "javadoc",
+          "55b98f4e5824095d788978479a07a102"
+        ],
+        [
+          "jar",
+          "userdev",
+          "521950dfacd3e8225f28823102045e20"
+        ],
+        [
+          "jar",
+          "installer",
+          "97365c18993b05ce8bd81b82f21dfe95"
+        ],
+        [
+          "txt",
+          "changelog",
+          "fbf7885afe790c7cde421583fe5c93c9"
+        ],
+        [
+          "exe",
+          "installer-win",
+          "b0167e9f44bdc50415f2f6f6b62bab75"
+        ],
+        [
+          "zip",
+          "src",
+          "af2d1516a2056b2243796c1a0c9d6b93"
+        ],
+        [
+          "jar",
+          "universal",
+          "4cb7633702148b35a5bb5728d33b2133"
+        ]
+      ],
+      "jobver": "10.12.0",
+      "mcversion": "1.7.2",
+      "modified": 1391041411.019835,
+      "version": "10.12.0.1020"
+    },
+    "1021": {
+      "branch": null,
+      "build": 1021,
+      "files": [
+        [
+          "zip",
+          "src",
+          "5815003c75fa5d51bad8825bcb672ebd"
+        ],
+        [
+          "jar",
+          "installer",
+          "7b844786cfaf933dc02a742cf030b4d4"
+        ],
+        [
+          "txt",
+          "changelog",
+          "587724d42596a0cf99cbe467e3bd12a9"
+        ],
+        [
+          "jar",
+          "userdev",
+          "d8268edbf5bc0b66d57bc2e752b9abbe"
+        ],
+        [
+          "zip",
+          "javadoc",
+          "ef1b38e1be43ff4bd104db2f4c7c2df2"
+        ],
+        [
+          "jar",
+          "universal",
+          "89af84e0aa79705cbff5aca22651eef3"
+        ],
+        [
+          "exe",
+          "installer-win",
+          "b83b54ed24db0fa245ada98e1468c3b4"
+        ]
+      ],
+      "jobver": "10.12.0",
+      "mcversion": "1.7.2",
+      "modified": 1391049615.7397077,
+      "version": "10.12.0.1021"
+    },
+    "1022": {
+      "branch": null,
+      "build": 1022,
+      "files": [
+        [
+          "jar",
+          "installer",
+          "6f3f97b95fb6a90245a7f40b659b531b"
+        ],
+        [
+          "exe",
+          "installer-win",
+          "dd9431089d811650ede38b60572aaa77"
+        ],
+        [
+          "zip",
+          "javadoc",
+          "9fce3ca16453f31b515ce33f17b7fdef"
+        ],
+        [
+          "txt",
+          "changelog",
+          "2976b194c93b3b4b9073929497f46358"
+        ],
+        [
+          "jar",
+          "userdev",
+          "3dceec6503e0778f10bd9e5d59b5b19e"
+        ],
+        [
+          "jar",
+          "universal",
+          "fc9287dc50e879273bd3fe2a7792d5fe"
+        ],
+        [
+          "zip",
+          "src",
+          "19a688f42d566f4e9945052e9c3a5bad"
+        ]
+      ],
+      "jobver": "10.12.0",
+      "mcversion": "1.7.2",
+      "modified": 1391210480.6692114,
+      "version": "10.12.0.1022"
+    }
+  },
+  "promos": {
+    "1.6.4-latest": 965,
+    "1.6.4-recommended": 965,
+    "1.7.2-latest": 1022,
+    "latest": 1022,
+    "recommended": 965
+  },
+  "webpath": "http://files.minecraftforge.net/maven/net/minecraftforge/forge"
+}
