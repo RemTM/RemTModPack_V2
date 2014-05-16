@@ -4,22 +4,32 @@
         "Clean": {
             "hidden": "false",
             "instances": [
+                "Clean 1.7.4",
                 "Clean 1.6.4"
+            ]
+        },
+        "Experimental": {
+            "hidden": "false",
+            "instances": [
+                "RemTM Meets Pixelmon- V0.1",
+                "Pixelmon"
             ]
         },
         "FTB": {
             "hidden": "false",
             "instances": [
                 "FTB/Unleashed",
-                "FTB/Monster",
-                "FTB/Direwolf20_1_6_4"
+                "FTB/Direwolf20_1_6_4",
+                "FTB/Monster"
             ]
         },
         "RemTModPack": {
             "hidden": "false",
             "instances": [
+                "RemTModPack_V2",
+                "RemTModPack_V3",
                 "RemTModPack_AL_V2",
-                "RemTModPack_V2"
+                "RemTModPack - Experimental"
             ]
         }
     }

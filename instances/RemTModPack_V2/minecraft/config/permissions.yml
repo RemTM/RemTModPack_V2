@@ -1,0 +1,33 @@
+groups:
+  default:
+    default: true
+    permissions:
+    - modifyworld.*
+    - mytown.chat.focus.*
+    - mytown.ecmd.msg
+    - mytown.ecmd.reply
+    - mytown.cmd
+    - mytown.cmd.*
+    - mytown.mayor.blocks.32
+    - mytown.resident.blocksmulti.10
+  moderators:
+    inheritance:
+    - default
+    permissions:
+    - mytown.cmd.new.*
+    - mytown.cmd.perm.*
+    - mytown.ecmd.*
+    - mytown.adm.spawn.other
+    - mytown.adm.bypass.teleportwait
+    prefix: $a[MOD]$f
+  admins:
+    inheritance:
+    - moderators
+    permissions:
+    - mytown.*
+    - mytown.adm.*
+    prefix: $a[ADMIN]$f
+  users:
+    sniper0432:
+      group:
+      - admins
