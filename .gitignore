@@ -229,7 +229,7 @@ instances/RemTModPack_V2/minecraft/crash-reports/
 instances/RemTModPack_V2/minecraft/customnpcs/
 instances/RemTModPack_V2/minecraft/dumps/
 instances/RemTModPack_V2/minecraft/hats/
-instances/RemTModPack_V2/minecraft/mods/VoxelMods/voxelMap/
+instances/RemTModPack_V2/minecraft/mods/VoxelMods/
 instances/RemTModPack_V2/minecraft/saves/
 instances/RemTModPack_V2/minecraft/screenshots/
 instances/RemTModPack_V2/minecraft/stats/
@@ -241,5 +241,6 @@ instances/RemTModPack_V2/minecraft/options.txt
 instances/RemTModPack_V2/minecraft/optionsof.txt
 instances/RemTModPack_V3/
 instances/RemTModPack_AL_V2/
+instances/instgroups.json
 accounts.json
 *.log
