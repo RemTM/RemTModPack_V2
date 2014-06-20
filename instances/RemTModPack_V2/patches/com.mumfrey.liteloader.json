@@ -1,0 +1,23 @@
+{
+    "+libraries": [
+        {
+            "insert": "prepend",
+            "name": "net.minecraft:launchwrapper:1.8"
+        },
+        {
+            "MMC-absoluteUrl": "http://dl.liteloader.com/versions/com/mumfrey/liteloader/1.6.4/liteloader-1.6.4_01.jar",
+            "MMC-depend": "hard",
+            "insert": "prepend",
+            "name": "com.mumfrey:liteloader:1.6.4_01"
+        }
+    ],
+    "+tweakers": [
+        "com.mumfrey.liteloader.launch.LiteLoaderTweaker"
+    ],
+    "fileId": "com.mumfrey.liteloader",
+    "mainClass": "net.minecraft.launchwrapper.Launch",
+    "mcVersion": "1.6.4",
+    "name": "LiteLoader",
+    "order": 10,
+    "version": "1.6.4_01"
+}
